@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+.container {
+    width: 75%;
+    background-color: white;
+}
+
+.photo {
+    width: 75%;
+    height: 55%;
+}
+.texto {
+    font-family: 'Roboto', sans-serif;;
+}
