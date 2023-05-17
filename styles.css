@@ -10,6 +10,16 @@ img {
   
 }
 
+h2 {
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
+
+
+
 .container {
     width: 75%;
     background-color: white; 
@@ -18,17 +28,24 @@ img {
     
 }
 
-.head {
+.left {
     display: flex;
 }
 
-.left {
-    justify-content: start;
-    max-width
+.fa-html5 {
+    font-size: 4rem; 
+    margin: 1rem;
 }
 
-.rigth{
-    justify-content: end;
+.fa-ellipsis-vertical {
+    font-size: 4rem; 
+    margin: 1rem;
+
+}
+
+.head {
+    display: flex;
+    justify-content: space-between;
 }
 
 .content {
