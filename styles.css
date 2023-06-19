@@ -1,8 +1,10 @@
+
 body {
     background-color: black;
     display: flex;
     justify-content: center;
     align-items: center;
+    max-width: 70em
 }
 img {
     width: 100%;
@@ -32,12 +34,12 @@ h3 {
 }
 
 .fa-html5 {
-    font-size: 3vw; 
+    font-size: 3vw;
     margin: 1rem;
 }
 
 .fa-ellipsis-vertical {
-    font-size: 3vw;
+    font-size: larger;
     margin: 1rem;
 
 }
